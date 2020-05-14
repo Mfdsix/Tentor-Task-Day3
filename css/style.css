@@ -1,0 +1,59 @@
+body{
+	margin: 0;
+	background: #eee;
+}
+header {
+	padding: 20px 30px;
+	background: #9a1f40;
+	color: #fff;
+}
+
+header h1{
+	margin: 0;
+}
+
+h3{
+	color: #d9455f;
+}
+
+nav{
+	background: #74d4c0;
+	padding: 10px 30px;
+}
+
+hr{
+	margin: 0;
+	border: none;
+	height: 3px;
+	background: #333;
+}
+
+nav a{
+	color: #d9455f;
+	text-decoration: none;
+}
+
+section{
+	padding: 50px 30px;
+}
+
+table{
+	width: 50%;
+	border-collapse: collapse;
+}
+table td, table th{
+	background: #333;
+	color: #fff;
+	padding: 5px;
+	border: 1px solid #ddd;
+}
+
+form label{
+	color: #333;
+}
+form input, form textarea{
+	padding: 10px;
+	margin-top: 5px;
+	border-radius: 3px;
+	border: none;
+}
